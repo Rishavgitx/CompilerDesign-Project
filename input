@@ -1,0 +1,18 @@
+
+
+purnank main() {
+    purnank a;
+    purnank x=1;
+    purnank y=2;
+    purnank z=3;
+    x=3;
+    y=10;
+    z=5;
+    agar(x>5) {
+        loop(purnank k=0; k<10; k++) {
+            y = x+3;
+            dikha("Hello!");
+        }
+    }
+    wapas 0;
+}
